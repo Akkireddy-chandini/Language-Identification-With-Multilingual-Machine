@@ -1,0 +1,901 @@
+Text,language
+Hello how are you today,English
+I am going to the market,English
+What time is the meeting,English
+Thank you for your help,English
+The weather is beautiful today,English
+Can you please help me,English
+I love learning new languages,English
+Where is the nearest hospital,English
+My name is John,English
+I need to buy some groceries,English
+She is reading a book,English
+We are going to the park,English
+The food was delicious,English
+I have a question for you,English
+Please send me the report,English
+The train arrives at noon,English
+I am feeling very happy,English
+Can I have the menu please,English
+The movie was interesting,English
+I want to learn programming,English
+He works at a bank,English
+The children are playing outside,English
+I need a cup of coffee,English
+What is your phone number,English
+The book is on the table,English
+I am studying for my exams,English
+She speaks three languages,English
+The car needs some repairs,English
+I enjoy cooking dinner,English
+Where can I find a taxi,English
+The concert starts at eight,English
+I would like to order food,English
+My favorite color is blue,English
+The store closes at nine,English
+I am waiting for the bus,English
+She teaches mathematics,English
+The flowers are very pretty,English
+I need to charge my phone,English
+What day is it today,English
+The coffee tastes good,English
+I am looking for a job,English
+He plays football every weekend,English
+The restaurant is nearby,English
+I forgot my password,English
+She is my best friend,English
+The hotel has free wifi,English
+I want to travel abroad,English
+My computer is not working,English
+The deadline is tomorrow,English
+I like watching movies,English
+Bonjour comment allez vous,French
+Je vais au marché,French
+Quelle heure est la réunion,French
+Merci pour votre aide,French
+Le temps est magnifique aujourd'hui,French
+Pouvez vous m'aider s'il vous plaît,French
+J'adore apprendre de nouvelles langues,French
+Où est l'hôpital le plus proche,French
+Je m'appelle Marie,French
+J'ai besoin d'acheter des courses,French
+Elle lit un livre,French
+Nous allons au parc,French
+Le repas était délicieux,French
+J'ai une question pour vous,French
+Envoyez moi le rapport s'il vous plaît,French
+Le train arrive à midi,French
+Je suis très heureux,French
+Puis je avoir le menu s'il vous plaît,French
+Le film était intéressant,French
+Je veux apprendre la programmation,French
+Il travaille dans une banque,French
+Les enfants jouent dehors,French
+J'ai besoin d'un café,French
+Quel est votre numéro de téléphone,French
+Le livre est sur la table,French
+J'étudie pour mes examens,French
+Elle parle trois langues,French
+La voiture a besoin de réparations,French
+J'aime cuisiner le dîner,French
+Où puis je trouver un taxi,French
+Le concert commence à huit heures,French
+Je voudrais commander de la nourriture,French
+Ma couleur préférée est le bleu,French
+Le magasin ferme à neuf heures,French
+J'attends le bus,French
+Elle enseigne les mathématiques,French
+Les fleurs sont très jolies,French
+Je dois recharger mon téléphone,French
+Quel jour sommes nous,French
+Le café est bon,French
+Je cherche un emploi,French
+Il joue au football chaque weekend,French
+Le restaurant est tout près,French
+J'ai oublié mon mot de passe,French
+Elle est ma meilleure amie,French
+L'hôtel a le wifi gratuit,French
+Je veux voyager à l'étranger,French
+Mon ordinateur ne fonctionne pas,French
+La date limite est demain,French
+J'aime regarder des films,French
+Olá como você está,Portuguese
+Eu vou ao mercado,Portuguese
+A que horas é a reunião,Portuguese
+Obrigado pela sua ajuda,Portuguese
+O tempo está lindo hoje,Portuguese
+Você pode me ajudar por favor,Portuguese
+Eu adoro aprender novas línguas,Portuguese
+Onde fica o hospital mais próximo,Portuguese
+Meu nome é Carlos,Portuguese
+Preciso comprar algumas coisas,Portuguese
+Ela está lendo um livro,Portuguese
+Nós vamos ao parque,Portuguese
+A comida estava deliciosa,Portuguese
+Tenho uma pergunta para você,Portuguese
+Por favor me envie o relatório,Portuguese
+O trem chega ao meio dia,Portuguese
+Estou me sentindo muito feliz,Portuguese
+Posso ver o cardápio por favor,Portuguese
+O filme foi interessante,Portuguese
+Quero aprender programação,Portuguese
+Ele trabalha em um banco,Portuguese
+As crianças estão brincando lá fora,Portuguese
+Preciso de uma xícara de café,Portuguese
+Qual é o seu número de telefone,Portuguese
+O livro está na mesa,Portuguese
+Estou estudando para minhas provas,Portuguese
+Ela fala três idiomas,Portuguese
+O carro precisa de reparos,Portuguese
+Gosto de cozinhar o jantar,Portuguese
+Onde posso encontrar um táxi,Portuguese
+O show começa às oito,Portuguese
+Gostaria de pedir comida,Portuguese
+Minha cor favorita é azul,Portuguese
+A loja fecha às nove,Portuguese
+Estou esperando o ônibus,Portuguese
+Ela ensina matemática,Portuguese
+As flores são muito bonitas,Portuguese
+Preciso carregar meu celular,Portuguese
+Que dia é hoje,Portuguese
+O café está bom,Portuguese
+Estou procurando emprego,Portuguese
+Ele joga futebol todo fim de semana,Portuguese
+O restaurante fica perto,Portuguese
+Esqueci minha senha,Portuguese
+Ela é minha melhor amiga,Portuguese
+O hotel tem wifi grátis,Portuguese
+Quero viajar para o exterior,Portuguese
+Meu computador não está funcionando,Portuguese
+O prazo é amanhã,Portuguese
+Gosto de assistir filmes,Portuguese
+안녕하세요 어떻게 지내세요,Korean
+저는 시장에 갑니다,Korean
+회의는 몇 시입니까,Korean
+도와주셔서 감사합니다,Korean
+오늘 날씨가 좋습니다,Korean
+도와주실 수 있나요,Korean
+새로운 언어를 배우는 것을 좋아합니다,Korean
+가장 가까운 병원이 어디인가요,Korean
+제 이름은 민수입니다,Korean
+장을 봐야 합니다,Korean
+그녀는 책을 읽고 있습니다,Korean
+우리는 공원에 갑니다,Korean
+음식이 맛있었습니다,Korean
+질문이 있습니다,Korean
+보고서를 보내주세요,Korean
+기차는 정오에 도착합니다,Korean
+저는 매우 행복합니다,Korean
+메뉴를 볼 수 있을까요,Korean
+영화가 재미있었습니다,Korean
+프로그래밍을 배우고 싶습니다,Korean
+그는 은행에서 일합니다,Korean
+아이들이 밖에서 놀고 있습니다,Korean
+커피 한 잔이 필요합니다,Korean
+전화번호가 어떻게 되나요,Korean
+책이 테이블 위에 있습니다,Korean
+시험 공부를 하고 있습니다,Korean
+그녀는 세 개 언어를 합니다,Korean
+차가 수리가 필요합니다,Korean
+저녁 요리하는 것을 좋아합니다,Korean
+택시를 어디서 찾을 수 있나요,Korean
+콘서트는 여덟 시에 시작합니다,Korean
+음식을 주문하고 싶습니다,Korean
+제가 좋아하는 색은 파란색입니다,Korean
+가게는 아홉 시에 문을 닫습니다,Korean
+버스를 기다리고 있습니다,Korean
+그녀는 수학을 가르칩니다,Korean
+꽃이 매우 예쁩니다,Korean
+휴대폰을 충전해야 합니다,Korean
+오늘 무슨 요일인가요,Korean
+커피 맛이 좋습니다,Korean
+일자리를 찾고 있습니다,Korean
+그는 매주 주말에 축구를 합니다,Korean
+식당이 근처에 있습니다,Korean
+비밀번호를 잊어버렸습니다,Korean
+그녀는 제 가장 친한 친구입니다,Korean
+호텔에 무료 와이파이가 있습니다,Korean
+해외 여행을 가고 싶습니다,Korean
+컴퓨터가 작동하지 않습니다,Korean
+마감일이 내일입니다,Korean
+영화 보는 것을 좋아합니다,Korean
+آپ کیسے ہیں,Urdu
+میں بازار جا رہا ہوں,Urdu
+میٹنگ کتنے بجے ہے,Urdu
+آپ کی مدد کا شکریہ,Urdu
+آج موسم خوبصورت ہے,Urdu
+کیا آپ میری مدد کر سکتے ہیں,Urdu
+مجھے نئی زبانیں سیکھنا پسند ہے,Urdu
+قریب ترین ہسپتال کہاں ہے,Urdu
+میرا نام علی ہے,Urdu
+مجھے کچھ سامان خریدنا ہے,Urdu
+وہ کتاب پڑھ رہی ہے,Urdu
+ہم پارک جا رہے ہیں,Urdu
+کھانا مزیدار تھا,Urdu
+میرا ایک سوال ہے,Urdu
+براہ کرم رپورٹ بھیج دیں,Urdu
+ٹرین دوپہر کو آتی ہے,Urdu
+میں بہت خوش ہوں,Urdu
+کیا مجھے مینو مل سکتا ہے,Urdu
+فلم دلچسپ تھی,Urdu
+میں پروگرامنگ سیکھنا چاہتا ہوں,Urdu
+وہ بینک میں کام کرتا ہے,Urdu
+بچے باہر کھیل رہے ہیں,Urdu
+مجھے ایک کپ چائے چاہیے,Urdu
+آپ کا فون نمبر کیا ہے,Urdu
+کتاب میز پر ہے,Urdu
+میں امتحان کی تیاری کر رہا ہوں,Urdu
+وہ تین زبانیں بولتی ہے,Urdu
+گاڑی کو مرمت کی ضرورت ہے,Urdu
+مجھے کھانا پکانا پسند ہے,Urdu
+ٹیکسی کہاں مل سکتی ہے,Urdu
+کنسرٹ آٹھ بجے شروع ہوگا,Urdu
+میں کھانا آرڈر کرنا چاہتا ہوں,Urdu
+میرا پسندیدہ رنگ نیلا ہے,Urdu
+دکان نو بجے بند ہوتی ہے,Urdu
+میں بس کا انتظار کر رہا ہوں,Urdu
+وہ ریاضی پڑھاتی ہے,Urdu
+پھول بہت خوبصورت ہیں,Urdu
+مجھے اپنا فون چارج کرنا ہے,Urdu
+آج کون سا دن ہے,Urdu
+چائے اچھی ہے,Urdu
+میں نوکری ڈھونڈ رہا ہوں,Urdu
+وہ ہر ہفتے فٹ بال کھیلتا ہے,Urdu
+ریستوران قریب ہے,Urdu
+میں پاس ورڈ بھول گیا,Urdu
+وہ میری سب سے اچھی دوست ہے,Urdu
+ہوٹل میں مفت وائی فائی ہے,Urdu
+میں بیرون ملک سفر کرنا چاہتا ہوں,Urdu
+میرا کمپیوٹر کام نہیں کر رہا,Urdu
+آخری تاریخ کل ہے,Urdu
+مجھے فلمیں دیکھنا پسند ہے,Urdu
+I need to schedule an appointment,English
+The project is almost complete,English
+She graduated from university last year,English
+The traffic is really bad today,English
+I am allergic to peanuts,English
+What is the wifi password,English
+The baby is sleeping now,English
+I prefer tea over coffee,English
+The gym opens at six,English
+I need to renew my passport,English
+She won the competition,English
+The meeting was postponed,English
+I have a headache today,English
+The package arrived yesterday,English
+He speaks English fluently,English
+The cake looks delicious,English
+I am running late today,English
+She bought a new laptop,English
+The beach is crowded today,English
+I need to do laundry,English
+The printer is out of ink,English
+We should meet more often,English
+I enjoyed the presentation,English
+The museum is closed on Monday,English
+He fixed the broken chair,English
+I am learning to drive,English
+The interview went well,English
+She makes excellent pasta,English
+The flight was delayed,English
+I need new running shoes,English
+The exhibition was amazing,English
+He forgot his wallet,English
+I am saving money for vacation,English
+The neighbors are very friendly,English
+She painted her room blue,English
+The battery is almost dead,English
+I love rainy days,English
+The test was difficult,English
+He arrived early this morning,English
+I need to cancel my subscription,English
+Je dois prendre rendez vous,French
+Le projet est presque terminé,French
+Elle a obtenu son diplôme l'année dernière,French
+Le trafic est vraiment mauvais aujourd'hui,French
+Je suis allergique aux arachides,French
+Quel est le mot de passe wifi,French
+Le bébé dort maintenant,French
+Je préfère le thé au café,French
+La salle de sport ouvre à six heures,French
+Je dois renouveler mon passeport,French
+Elle a gagné la compétition,French
+La réunion a été reportée,French
+J'ai mal à la tête aujourd'hui,French
+Le colis est arrivé hier,French
+Il parle anglais couramment,French
+Le gâteau a l'air délicieux,French
+Je suis en retard aujourd'hui,French
+Elle a acheté un nouvel ordinateur portable,French
+La plage est bondée aujourd'hui,French
+Je dois faire la lessive,French
+L'imprimante n'a plus d'encre,French
+Nous devrions nous voir plus souvent,French
+J'ai apprécié la présentation,French
+Le musée est fermé le lundi,French
+Il a réparé la chaise cassée,French
+J'apprends à conduire,French
+L'entretien s'est bien passé,French
+Elle fait d'excellentes pâtes,French
+Le vol a été retardé,French
+J'ai besoin de nouvelles chaussures de course,French
+L'exposition était incroyable,French
+Il a oublié son portefeuille,French
+J'économise pour les vacances,French
+Les voisins sont très sympathiques,French
+Elle a peint sa chambre en bleu,French
+La batterie est presque morte,French
+J'adore les jours de pluie,French
+L'examen était difficile,French
+Il est arrivé tôt ce matin,French
+Je dois annuler mon abonnement,French
+Preciso marcar uma consulta,Portuguese
+O projeto está quase pronto,Portuguese
+Ela se formou na universidade ano passado,Portuguese
+O trânsito está muito ruim hoje,Portuguese
+Sou alérgico a amendoim,Portuguese
+Qual é a senha do wifi,Portuguese
+O bebê está dormindo agora,Portuguese
+Prefiro chá ao café,Portuguese
+A academia abre às seis,Portuguese
+Preciso renovar meu passaporte,Portuguese
+Ela ganhou a competição,Portuguese
+A reunião foi adiada,Portuguese
+Estou com dor de cabeça hoje,Portuguese
+O pacote chegou ontem,Portuguese
+Ele fala inglês fluentemente,Portuguese
+O bolo parece delicioso,Portuguese
+Estou atrasado hoje,Portuguese
+Ela comprou um notebook novo,Portuguese
+A praia está lotada hoje,Portuguese
+Preciso lavar roupa,Portuguese
+A impressora está sem tinta,Portuguese
+Deveríamos nos encontrar mais vezes,Portuguese
+Gostei da apresentação,Portuguese
+O museu fecha na segunda feira,Portuguese
+Ele consertou a cadeira quebrada,Portuguese
+Estou aprendendo a dirigir,Portuguese
+A entrevista foi bem,Portuguese
+Ela faz uma massa excelente,Portuguese
+O voo atrasou,Portuguese
+Preciso de tênis novos para correr,Portuguese
+A exposição foi incrível,Portuguese
+Ele esqueceu a carteira,Portuguese
+Estou economizando para as férias,Portuguese
+Os vizinhos são muito simpáticos,Portuguese
+Ela pintou o quarto de azul,Portuguese
+A bateria está quase acabando,Portuguese
+Adoro dias de chuva,Portuguese
+A prova foi difícil,Portuguese
+Ele chegou cedo esta manhã,Portuguese
+Preciso cancelar minha assinatura,Portuguese
+예약을 해야 합니다,Korean
+프로젝트가 거의 완료되었습니다,Korean
+그녀는 작년에 대학을 졸업했습니다,Korean
+오늘 교통이 정말 나쁩니다,Korean
+저는 땅콩 알레르기가 있습니다,Korean
+와이파이 비밀번호가 뭐예요,Korean
+아기가 지금 자고 있습니다,Korean
+저는 커피보다 차를 선호합니다,Korean
+헬스장은 여섯 시에 엽니다,Korean
+여권을 갱신해야 합니다,Korean
+그녀가 대회에서 우승했습니다,Korean
+회의가 연기되었습니다,Korean
+오늘 두통이 있습니다,Korean
+택배가 어제 도착했습니다,Korean
+그는 영어를 유창하게 합니다,Korean
+케이크가 맛있어 보입니다,Korean
+오늘 늦었습니다,Korean
+그녀가 새 노트북을 샀습니다,Korean
+오늘 해변이 붐빕니다,Korean
+빨래를 해야 합니다,Korean
+프린터에 잉크가 없습니다,Korean
+우리 더 자주 만나야 해요,Korean
+발표가 좋았습니다,Korean
+박물관은 월요일에 문을 닫습니다,Korean
+그가 부러진 의자를 고쳤습니다,Korean
+운전을 배우고 있습니다,Korean
+면접이 잘 됐습니다,Korean
+그녀는 파스타를 잘 만듭니다,Korean
+비행기가 지연되었습니다,Korean
+새 운동화가 필요합니다,Korean
+전시회가 놀라웠습니다,Korean
+그가 지갑을 잊어버렸습니다,Korean
+휴가를 위해 저축하고 있습니다,Korean
+이웃들이 매우 친절합니다,Korean
+그녀가 방을 파란색으로 칠했습니다,Korean
+배터리가 거의 다 됐습니다,Korean
+비 오는 날을 좋아합니다,Korean
+시험이 어려웠습니다,Korean
+그가 오늘 아침 일찍 도착했습니다,Korean
+구독을 취소해야 합니다,Korean
+مجھے ملاقات کا وقت لینا ہے,Urdu
+پروجیکٹ تقریباً مکمل ہے,Urdu
+اس نے پچھلے سال یونیورسٹی سے گریجویشن کیا,Urdu
+آج ٹریفک بہت خراب ہے,Urdu
+مجھے مونگ پھلی سے الرجی ہے,Urdu
+وائی فائی کا پاس ورڈ کیا ہے,Urdu
+بچہ ابھی سو رہا ہے,Urdu
+مجھے کافی سے زیادہ چائے پسند ہے,Urdu
+جم چھ بجے کھلتا ہے,Urdu
+مجھے اپنا پاسپورٹ تجدید کرانا ہے,Urdu
+اس نے مقابلہ جیت لیا,Urdu
+میٹنگ ملتوی کر دی گئی,Urdu
+آج میرے سر میں درد ہے,Urdu
+پارسل کل آ گیا,Urdu
+وہ روانی سے انگریزی بولتا ہے,Urdu
+کیک مزیدار لگ رہا ہے,Urdu
+آج مجھے دیر ہو گئی,Urdu
+اس نے نیا لیپ ٹاپ خریدا,Urdu
+آج ساحل پر بہت بھیڑ ہے,Urdu
+مجھے کپڑے دھونے ہیں,Urdu
+پرنٹر میں سیاہی ختم ہو گئی,Urdu
+ہمیں زیادہ ملنا چاہیے,Urdu
+پریزنٹیشن اچھی تھی,Urdu
+میوزیم پیر کو بند رہتا ہے,Urdu
+اس نے ٹوٹی کرسی ٹھیک کی,Urdu
+میں گاڑی چلانا سیکھ رہا ہوں,Urdu
+انٹرویو اچھا رہا,Urdu
+وہ بہترین پاستا بناتی ہے,Urdu
+فلائٹ میں تاخیر ہوئی,Urdu
+مجھے نئے دوڑنے کے جوتے چاہیے,Urdu
+نمائش حیرت انگیز تھی,Urdu
+وہ اپنا بٹوا بھول گیا,Urdu
+میں چھٹیوں کے لیے پیسے بچا رہا ہوں,Urdu
+پڑوسی بہت دوستانہ ہیں,Urdu
+اس نے اپنا کمرہ نیلا رنگ کیا,Urdu
+بیٹری تقریباً ختم ہے,Urdu
+مجھے بارش کے دن پسند ہیں,Urdu
+امتحان مشکل تھا,Urdu
+وہ آج صبح جلدی پہنچ گیا,Urdu
+مجھے اپنا سبسکرپشن منسوخ کرنا ہے,Urdu
+The sun rises in the east,English
+I usually wake up early,English
+Can you repeat that please,English
+The library has many books,English
+I need to buy medicine,English
+She dances beautifully,English
+The meeting is at three,English
+I am feeling tired today,English
+He plays guitar very well,English
+The supermarket is open,English
+I want to learn cooking,English
+She has two brothers,English
+The exam is next week,English
+I prefer walking to driving,English
+The sunset was gorgeous,English
+He is a software engineer,English
+I need an umbrella today,English
+The cake is too sweet,English
+She works from home now,English
+I love springtime weather,English
+The doctor will see you now,English
+I am planning a trip,English
+He runs every morning,English
+The hotel room is clean,English
+I enjoy reading novels,English
+She made breakfast today,English
+The bus comes every hour,English
+I need to send an email,English
+He studies computer science,English
+The party was really fun,English
+I want to buy a gift,English
+She lives near the station,English
+The ice cream melted quickly,English
+I have been waiting long,English
+He takes good photographs,English
+The windows need cleaning,English
+I am learning guitar now,English
+She cooks dinner every day,English
+The mountain view is stunning,English
+I forgot to set an alarm,English
+Le soleil se lève à l'est,French
+Je me réveille tôt habituellement,French
+Pouvez vous répéter s'il vous plaît,French
+La bibliothèque a beaucoup de livres,French
+J'ai besoin d'acheter des médicaments,French
+Elle danse magnifiquement,French
+La réunion est à trois heures,French
+Je me sens fatigué aujourd'hui,French
+Il joue très bien de la guitare,French
+Le supermarché est ouvert,French
+Je veux apprendre à cuisiner,French
+Elle a deux frères,French
+L'examen est la semaine prochaine,French
+Je préfère marcher que conduire,French
+Le coucher de soleil était magnifique,French
+Il est ingénieur en informatique,French
+J'ai besoin d'un parapluie aujourd'hui,French
+Le gâteau est trop sucré,French
+Elle travaille de chez elle maintenant,French
+J'adore le temps du printemps,French
+Le médecin va vous recevoir maintenant,French
+Je planifie un voyage,French
+Il court tous les matins,French
+La chambre d'hôtel est propre,French
+J'aime lire des romans,French
+Elle a préparé le petit déjeuner aujourd'hui,French
+Le bus passe toutes les heures,French
+Je dois envoyer un email,French
+Il étudie l'informatique,French
+La fête était vraiment amusante,French
+Je veux acheter un cadeau,French
+Elle habite près de la gare,French
+La glace a fondu rapidement,French
+J'attends depuis longtemps,French
+Il prend de belles photos,French
+Les fenêtres ont besoin d'être nettoyées,French
+J'apprends la guitare maintenant,French
+Elle prépare le dîner tous les jours,French
+La vue sur la montagne est superbe,French
+J'ai oublié de mettre une alarme,French
+O sol nasce no leste,Portuguese
+Eu geralmente acordo cedo,Portuguese
+Pode repetir por favor,Portuguese
+A biblioteca tem muitos livros,Portuguese
+Preciso comprar remédio,Portuguese
+Ela dança lindamente,Portuguese
+A reunião é às três,Portuguese
+Estou me sentindo cansado hoje,Portuguese
+Ele toca violão muito bem,Portuguese
+O supermercado está aberto,Portuguese
+Quero aprender a cozinhar,Portuguese
+Ela tem dois irmãos,Portuguese
+A prova é na próxima semana,Portuguese
+Prefiro caminhar a dirigir,Portuguese
+O pôr do sol estava lindo,Portuguese
+Ele é engenheiro de software,Portuguese
+Preciso de um guarda chuva hoje,Portuguese
+O bolo está muito doce,Portuguese
+Ela trabalha de casa agora,Portuguese
+Adoro o clima da primavera,Portuguese
+O médico vai te atender agora,Portuguese
+Estou planejando uma viagem,Portuguese
+Ele corre toda manhã,Portuguese
+O quarto do hotel está limpo,Portuguese
+Gosto de ler romances,Portuguese
+Ela fez café da manhã hoje,Portuguese
+O ônibus passa a cada hora,Portuguese
+Preciso enviar um email,Portuguese
+Ele estuda ciência da computação,Portuguese
+A festa foi muito divertida,Portuguese
+Quero comprar um presente,Portuguese
+Ela mora perto da estação,Portuguese
+O sorvete derreteu rápido,Portuguese
+Estou esperando há muito tempo,Portuguese
+Ele tira boas fotografias,Portuguese
+As janelas precisam de limpeza,Portuguese
+Estou aprendendo violão agora,Portuguese
+Ela cozinha o jantar todo dia,Portuguese
+A vista da montanha é incrível,Portuguese
+Esqueci de colocar o alarme,Portuguese
+해는 동쪽에서 뜹니다,Korean
+저는 보통 일찍 일어납니다,Korean
+다시 말씀해 주시겠어요,Korean
+도서관에 책이 많습니다,Korean
+약을 사야 합니다,Korean
+그녀는 춤을 아름답게 춥니다,Korean
+회의는 세 시입니다,Korean
+오늘 피곤합니다,Korean
+그는 기타를 아주 잘 칩니다,Korean
+슈퍼마켓이 열려 있습니다,Korean
+요리를 배우고 싶습니다,Korean
+그녀는 남동생이 두 명 있습니다,Korean
+시험이 다음 주입니다,Korean
+저는 운전보다 걷는 것을 선호합니다,Korean
+일몰이 아름다웠습니다,Korean
+그는 소프트웨어 엔지니어입니다,Korean
+오늘 우산이 필요합니다,Korean
+케이크가 너무 달아요,Korean
+그녀는 지금 재택근무를 합니다,Korean
+봄 날씨를 좋아합니다,Korean
+의사가 지금 진료합니다,Korean
+여행을 계획하고 있습니다,Korean
+그는 매일 아침 달립니다,Korean
+호텔 방이 깨끗합니다,Korean
+소설 읽는 것을 좋아합니다,Korean
+그녀가 오늘 아침을 만들었습니다,Korean
+버스는 매시간 옵니다,Korean
+이메일을 보내야 합니다,Korean
+그는 컴퓨터 과학을 공부합니다,Korean
+파티가 정말 재미있었습니다,Korean
+선물을 사고 싶습니다,Korean
+그녀는 역 근처에 삽니다,Korean
+아이스크림이 빨리 녹았습니다,Korean
+오래 기다렸습니다,Korean
+그는 사진을 잘 찍습니다,Korean
+창문을 닦아야 합니다,Korean
+지금 기타를 배우고 있습니다,Korean
+그녀는 매일 저녁을 요리합니다,Korean
+산 전망이 멋집니다,Korean
+알람 맞추는 것을 잊었습니다,Korean
+سورج مشرق سے طلوع ہوتا ہے,Urdu
+میں عموماً جلدی اٹھتا ہوں,Urdu
+کیا آپ دہرا سکتے ہیں,Urdu
+لائبریری میں بہت کتابیں ہیں,Urdu
+مجھے دوائی خریدنی ہے,Urdu
+وہ خوبصورتی سے ناچتی ہے,Urdu
+میٹنگ تین بجے ہے,Urdu
+آج میں تھکا ہوا ہوں,Urdu
+وہ گٹار بہت اچھا بجاتا ہے,Urdu
+سپر مارکیٹ کھلی ہے,Urdu
+میں کھانا پکانا سیکھنا چاہتا ہوں,Urdu
+اس کے دو بھائی ہیں,Urdu
+امتحان اگلے ہفتے ہے,Urdu
+مجھے گاڑی چلانے سے پیدل چلنا پسند ہے,Urdu
+غروب آفتاب خوبصورت تھا,Urdu
+وہ سافٹ ویئر انجینئر ہے,Urdu
+آج مجھے چھتری چاہیے,Urdu
+کیک بہت میٹھا ہے,Urdu
+وہ اب گھر سے کام کرتی ہے,Urdu
+مجھے بہار کا موسم پسند ہے,Urdu
+ڈاکٹر ابھی آپ کو دیکھیں گے,Urdu
+میں سفر کی منصوبہ بندی کر رہا ہوں,Urdu
+وہ ہر صبح دوڑتا ہے,Urdu
+ہوٹل کا کمرہ صاف ہے,Urdu
+مجھے ناول پڑھنا پسند ہے,Urdu
+اس نے آج ناشتہ بنایا,Urdu
+بس ہر گھنٹے آتی ہے,Urdu
+مجھے ای میل بھیجنی ہے,Urdu
+وہ کمپیوٹر سائنس پڑھتا ہے,Urdu
+پارٹی بہت مزیدار تھی,Urdu
+میں تحفہ خریدنا چاہتا ہوں,Urdu
+وہ اسٹیشن کے قریب رہتی ہے,Urdu
+آئس کریم جلدی پگھل گئی,Urdu
+میں بہت دیر سے انتظار کر رہا ہوں,Urdu
+وہ اچھی تصویریں لیتا ہے,Urdu
+کھڑکیوں کی صفائی ضروری ہے,Urdu
+میں ابھی گٹار سیکھ رہا ہوں,Urdu
+وہ روزانہ رات کا کھانا پکاتی ہے,Urdu
+پہاڑ کا نظارہ شاندار ہے,Urdu
+میں الارم لگانا بھول گیا,Urdu
+I want to buy new clothes,English
+She is preparing for exams,English
+The restaurant serves great food,English
+I am attending a wedding tomorrow,English
+He collects old coins,English
+The phone is ringing loudly,English
+I need to fix my bicycle,English
+She painted a beautiful picture,English
+The classroom is very quiet,English
+I enjoy walking in nature,English
+He teaches English to kids,English
+The coffee shop is cozy,English
+I am looking for my keys,English
+She visited her grandmother,English
+The airport is far from here,English
+I want to improve my skills,English
+He writes articles for magazines,English
+The garden needs watering,English
+I received a message today,English
+She always arrives on time,English
+The children love ice cream,English
+I am planning to move soon,English
+He designed a new website,English
+The noise outside is loud,English
+I need to practice more,English
+She organized a birthday party,English
+The road is under construction,English
+I enjoy spending time with family,English
+He recommended a good book,English
+The blanket is very warm,English
+Je veux acheter de nouveaux vêtements,French
+Elle se prépare pour les examens,French
+Le restaurant sert d'excellents plats,French
+Je vais à un mariage demain,French
+Il collectionne les vieilles pièces,French
+Le téléphone sonne fort,French
+Je dois réparer mon vélo,French
+Elle a peint une belle image,French
+La salle de classe est très calme,French
+J'aime marcher dans la nature,French
+Il enseigne l'anglais aux enfants,French
+Le café est confortable,French
+Je cherche mes clés,French
+Elle a rendu visite à sa grand mère,French
+L'aéroport est loin d'ici,French
+Je veux améliorer mes compétences,French
+Il écrit des articles pour des magazines,French
+Le jardin a besoin d'eau,French
+J'ai reçu un message aujourd'hui,French
+Elle arrive toujours à l'heure,French
+Les enfants adorent la glace,French
+Je prévois de déménager bientôt,French
+Il a conçu un nouveau site web,French
+Le bruit dehors est fort,French
+Je dois m'entraîner davantage,French
+Elle a organisé une fête d'anniversaire,French
+La route est en construction,French
+J'aime passer du temps en famille,French
+Il a recommandé un bon livre,French
+La couverture est très chaude,French
+Quero comprar roupas novas,Portuguese
+Ela está se preparando para as provas,Portuguese
+O restaurante serve ótima comida,Portuguese
+Vou a um casamento amanhã,Portuguese
+Ele coleciona moedas antigas,Portuguese
+O telefone está tocando alto,Portuguese
+Preciso consertar minha bicicleta,Portuguese
+Ela pintou um quadro lindo,Portuguese
+A sala de aula está muito quieta,Portuguese
+Gosto de caminhar na natureza,Portuguese
+Ele ensina inglês para crianças,Portuguese
+A cafeteria é aconchegante,Portuguese
+Estou procurando minhas chaves,Portuguese
+Ela visitou a avó,Portuguese
+O aeroporto fica longe daqui,Portuguese
+Quero melhorar minhas habilidades,Portuguese
+Ele escreve artigos para revistas,Portuguese
+O jardim precisa ser regado,Portuguese
+Recebi uma mensagem hoje,Portuguese
+Ela sempre chega no horário,Portuguese
+As crianças adoram sorvete,Portuguese
+Estou planejando me mudar em breve,Portuguese
+Ele projetou um novo site,Portuguese
+O barulho lá fora está alto,Portuguese
+Preciso praticar mais,Portuguese
+Ela organizou uma festa de aniversário,Portuguese
+A estrada está em construção,Portuguese
+Gosto de passar tempo com a família,Portuguese
+Ele recomendou um bom livro,Portuguese
+O cobertor é muito quente,Portuguese
+새 옷을 사고 싶습니다,Korean
+그녀는 시험 준비를 하고 있습니다,Korean
+그 식당은 음식이 훌륭합니다,Korean
+내일 결혼식에 참석합니다,Korean
+그는 오래된 동전을 수집합니다,Korean
+전화벨이 크게 울리고 있습니다,Korean
+자전거를 고쳐야 합니다,Korean
+그녀가 아름다운 그림을 그렸습니다,Korean
+교실이 매우 조용합니다,Korean
+자연에서 걷는 것을 즐깁니다,Korean
+그는 아이들에게 영어를 가르칩니다,Korean
+그 카페는 아늑합니다,Korean
+열쇠를 찾고 있습니다,Korean
+그녀가 할머니를 방문했습니다,Korean
+공항은 여기서 멉니다,Korean
+기술을 향상시키고 싶습니다,Korean
+그는 잡지에 글을 씁니다,Korean
+정원에 물을 줘야 합니다,Korean
+오늘 메시지를 받았습니다,Korean
+그녀는 항상 제시간에 도착합니다,Korean
+아이들은 아이스크림을 좋아합니다,Korean
+곧 이사할 계획입니다,Korean
+그가 새 웹사이트를 디자인했습니다,Korean
+밖에서 소음이 큽니다,Korean
+더 연습해야 합니다,Korean
+그녀가 생일 파티를 준비했습니다,Korean
+도로가 공사 중입니다,Korean
+가족과 시간을 보내는 것을 즐깁니다,Korean
+그가 좋은 책을 추천했습니다,Korean
+이불이 매우 따뜻합니다,Korean
+میں نئے کپڑے خریدنا چاہتا ہوں,Urdu
+وہ امتحان کی تیاری کر رہی ہے,Urdu
+ریستوران کا کھانا بہترین ہے,Urdu
+کل میں شادی میں جا رہا ہوں,Urdu
+وہ پرانے سکے جمع کرتا ہے,Urdu
+فون زور سے بج رہا ہے,Urdu
+مجھے اپنی سائیکل ٹھیک کرنی ہے,Urdu
+اس نے ایک خوبصورت تصویر بنائی,Urdu
+کلاس روم بہت خاموش ہے,Urdu
+مجھے قدرت میں چلنا پسند ہے,Urdu
+وہ بچوں کو انگریزی پڑھاتا ہے,Urdu
+کافی شاپ آرام دہ ہے,Urdu
+میں اپنی چابیاں ڈھونڈ رہا ہوں,Urdu
+اس نے اپنی دادی سے ملاقات کی,Urdu
+ہوائی اڈہ یہاں سے دور ہے,Urdu
+میں اپنی صلاحیتیں بہتر کرنا چاہتا ہوں,Urdu
+وہ میگزین کے لیے مضامین لکھتا ہے,Urdu
+باغ کو پانی کی ضرورت ہے,Urdu
+آج مجھے پیغام ملا,Urdu
+وہ ہمیشہ وقت پر پہنچتی ہے,Urdu
+بچے آئس کریم پسند کرتے ہیں,Urdu
+میں جلد منتقل ہونے کا ارادہ رکھتا ہوں,Urdu
+اس نے نئی ویب سائٹ ڈیزائن کی,Urdu
+باہر شور بہت ہے,Urdu
+مجھے مزید مشق کرنی چاہیے,Urdu
+اس نے سالگرہ کی تقریب منعقد کی,Urdu
+سڑک زیر تعمیر ہے,Urdu
+مجھے خاندان کے ساتھ وقت گزارنا پسند ہے,Urdu
+اس نے اچھی کتاب کی سفارش کی,Urdu
+کمبل بہت گرم ہے,Urdu
+I want to visit Paris someday,English
+She is learning to play piano,English
+The movie theater is crowded,English
+I need to check my email,English
+He bought a new car,English
+The clock on the wall is broken,English
+I am allergic to seafood,English
+She volunteers at the hospital,English
+The subway station is nearby,English
+I prefer listening to music,English
+He graduated with honors,English
+The furniture store has a sale,English
+I need to replace my laptop,English
+She speaks with confidence,English
+The park has beautiful flowers,English
+I enjoy watching documentaries,English
+He repaired the washing machine,English
+The office building is tall,English
+I am thinking about my future,English
+She loves her pet dog,English
+Je veux visiter Paris un jour,French
+Elle apprend à jouer du piano,French
+Le cinéma est bondé,French
+Je dois vérifier mes emails,French
+Il a acheté une nouvelle voiture,French
+L'horloge au mur est cassée,French
+Je suis allergique aux fruits de mer,French
+Elle fait du bénévolat à l'hôpital,French
+La station de métro est proche,French
+Je préfère écouter de la musique,French
+Il a obtenu son diplôme avec mention,French
+Le magasin de meubles fait des soldes,French
+Je dois remplacer mon ordinateur portable,French
+Elle parle avec confiance,French
+Le parc a de belles fleurs,French
+J'aime regarder des documentaires,French
+Il a réparé la machine à laver,French
+L'immeuble de bureaux est grand,French
+Je pense à mon avenir,French
+Elle adore son chien,French
+Quero visitar Paris um dia,Portuguese
+Ela está aprendendo a tocar piano,Portuguese
+O cinema está lotado,Portuguese
+Preciso verificar meu email,Portuguese
+Ele comprou um carro novo,Portuguese
+O relógio na parede está quebrado,Portuguese
+Sou alérgico a frutos do mar,Portuguese
+Ela faz voluntariado no hospital,Portuguese
+A estação de metrô fica perto,Portuguese
+Prefiro ouvir música,Portuguese
+Ele se formou com honras,Portuguese
+A loja de móveis está em promoção,Portuguese
+Preciso trocar meu notebook,Portuguese
+Ela fala com confiança,Portuguese
+O parque tem flores lindas,Portuguese
+Gosto de assistir documentários,Portuguese
+Ele consertou a máquina de lavar,Portuguese
+O prédio comercial é alto,Portuguese
+Estou pensando no meu futuro,Portuguese
+Ela ama seu cachorro,Portuguese
+언젠가 파리를 방문하고 싶습니다,Korean
+그녀는 피아노 치는 것을 배우고 있습니다,Korean
+영화관이 붐빕니다,Korean
+이메일을 확인해야 합니다,Korean
+그가 새 차를 샀습니다,Korean
+벽에 있는 시계가 고장났습니다,Korean
+저는 해산물 알레르기가 있습니다,Korean
+그녀는 병원에서 봉사활동을 합니다,Korean
+지하철역이 근처에 있습니다,Korean
+음악 듣는 것을 선호합니다,Korean
+그는 우등으로 졸업했습니다,Korean
+가구점에서 세일을 합니다,Korean
+노트북을 교체해야 합니다,Korean
+그녀는 자신감 있게 말합니다,Korean
+공원에 아름다운 꽃이 있습니다,Korean
+다큐멘터리 보는 것을 즐깁니다,Korean
+그가 세탁기를 수리했습니다,Korean
+사무실 건물이 높습니다,Korean
+제 미래에 대해 생각하고 있습니다,Korean
+그녀는 반려견을 사랑합니다,Korean
+میں کبھی پیرس جانا چاہتا ہوں,Urdu
+وہ پیانو بجانا سیکھ رہی ہے,Urdu
+سنیما میں بہت بھیڑ ہے,Urdu
+مجھے اپنا ای میل چیک کرنا ہے,Urdu
+اس نے نئی گاڑی خریدی,Urdu
+دیوار پر گھڑی خراب ہے,Urdu
+مجھے سمندری غذا سے الرجی ہے,Urdu
+وہ ہسپتال میں رضاکارانہ کام کرتی ہے,Urdu
+میٹرو اسٹیشن قریب ہے,Urdu
+مجھے موسیقی سننا پسند ہے,Urdu
+اس نے اعزاز کے ساتھ گریجویشن کیا,Urdu
+فرنیچر کی دکان میں سیل ہے,Urdu
+مجھے اپنا لیپ ٹاپ بدلنا ہے,Urdu
+وہ اعتماد سے بولتی ہے,Urdu
+پارک میں خوبصورت پھول ہیں,Urdu
+مجھے دستاویزی فلمیں دیکھنا پسند ہے,Urdu
+اس نے واشنگ مشین ٹھیک کی,Urdu
+دفتر کی عمارت اونچی ہے,Urdu
+میں اپنے مستقبل کے بارے میں سوچ رہا ہوں,Urdu
+وہ اپنے کتے سے بہت پیار کرتی ہے,Urdu
