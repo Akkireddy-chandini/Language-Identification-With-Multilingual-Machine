@@ -132,18 +132,42 @@ F - Exit
 
 # 📸 Output Screenshots
 
-Add screenshots inside the `screenshots` folder.
+## Main Menu
 
-Suggested screenshots:
-
-* Main Menu
-* Language Detection Output
-* Korean Translation
-* Portuguese Translation
-* French Translation
-* Urdu Translation
+![Main Menu](main%20menu.png)
 
 ---
+
+## Language Detection Output
+
+![Language Detection](language%20detection%20output.png)
+
+---
+
+## Korean Translation
+
+![Korean Translation](korean%20translation.png)
+
+---
+
+## Portuguese Translation
+
+![Portuguese Translation](portuguese%20translation.png)
+
+---
+
+## French Translation
+
+![French Translation](french%20translation.png)
+
+---
+
+## Urdu Translation
+
+![Urdu Translation](urdu%20translation.png)
+
+---
+
 
 # 🎓 Internship Details
 
@@ -153,6 +177,11 @@ This project was developed during internship training as part of:
 * Organization: Skill Development Institute
 
 ---
+
+# 🎓 Internship Certificate
+
+![Internship Certificate](MLP%20INTERNSHIP%20CERTIFICATE.jpeg)
+
 
 # 🔮 Future Enhancements
 
